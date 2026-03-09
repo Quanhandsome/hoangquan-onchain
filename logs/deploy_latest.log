@@ -20104,3 +20104,36 @@ M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
 Already on 'gh-pages'
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages 2d55ce26] deploy 20260309_163502
+ 374 files changed, 287321 insertions(+), 285709 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 64.36 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   e2827886..2d55ce26  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260309_205841 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+M	Grass/GRASS_ats.html
+M	Grass/GRASS_entry_distribution.html
+M	Grass/GRASS_realized_price.html
+M	Grass/Grass_Trend_Accumulation_By_Cohort.html
+M	Grass/grass_nrpl.html
+M	Grass/grass_nupl.html
+M	Grass/grass_sopd.html
+M	Grass/grass_unrealized_pl.html
+M	Grass/grass_urpd.html
+M	Grass/publish/grass_avg_order_size_vs_mc.html
+M	Grass/publish/grass_avg_order_size_vs_mc_daily.csv
+M	Grass/publish/grass_entity_urpd.csv
+M	Grass/publish/grass_entity_urpd.html
+M	Grass/publish/grass_entity_urpd_latest.html
+M	Grass/publish/grass_top20_mindshare.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
+Already on 'gh-pages'
