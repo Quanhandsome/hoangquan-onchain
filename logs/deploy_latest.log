@@ -26585,3 +26585,70 @@ M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
 Already on 'gh-pages'
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+Auto packing the repository for optimum performance.
+See "git help gc" for manual housekeeping.
+[gh-pages 21bf3327] deploy 20260324_165502
+ 419 files changed, 258235 insertions(+), 256372 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 65.07 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   eb67a44d..21bf3327  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260325_061035 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+M	Clawd/CLAWD_ats.html
+M	Clawd/CLAWD_entry_distribution.html
+M	Clawd/CLAWD_realized_price.html
+M	Clawd/Clawd_Trend_Accumulation_By_Cohort.html
+M	Clawd/clawd_nrpl.html
+M	Clawd/clawd_nupl.html
+M	Clawd/clawd_sopd.html
+M	Clawd/clawd_unrealized_pl.html
+M	Clawd/clawd_urpd.html
+M	Clawd/publish/clawd_avg_order_size_vs_mc.html
+M	Clawd/publish/clawd_avg_order_size_vs_mc_daily.csv
+M	Clawd/publish/clawd_entity_urpd.csv
+M	Clawd/publish/clawd_entity_urpd.html
+M	Clawd/publish/clawd_entity_urpd_latest.html
+M	Clawnch/CLAWNCH_ats.html
+M	Clawnch/CLAWNCH_entry_distribution.html
+M	Clawnch/CLAWNCH_realized_price.html
+M	Clawnch/Clawnch_Trend_Accumulation_By_Cohort.html
+M	Clawnch/clawnch_nrpl.html
+M	Clawnch/clawnch_nupl.html
+M	Clawnch/clawnch_sopd.html
+M	Clawnch/clawnch_unrealized_pl.html
+M	Clawnch/clawnch_urpd.html
+M	Clawnch/publish/clawnch_avg_order_size_vs_mc.html
+M	Clawnch/publish/clawnch_avg_order_size_vs_mc_daily.csv
+M	Clawnch/publish/clawnch_entity_urpd.csv
+M	Clawnch/publish/clawnch_entity_urpd.html
+M	Clawnch/publish/clawnch_entity_urpd_latest.html
+M	Clawnch/publish/clawnch_top20_mindshare.html
+M	Grt/publish/grt_entity_urpd.csv
+M	Grt/publish/grt_entity_urpd.html
+M	Grt/publish/grt_entity_urpd_latest.html
+M	Molt/MOLT_ats.html
+M	Molt/MOLT_entry_distribution.html
+M	Molt/MOLT_realized_price.html
+M	Molt/Molt_Trend_Accumulation_By_Cohort.html
+M	Molt/molt_nrpl.html
+M	Molt/molt_nupl.html
+M	Molt/molt_sopd.html
+M	Molt/molt_unrealized_pl.html
+M	Molt/molt_urpd.html
+M	Molt/publish/molt_avg_order_size_vs_mc.html
+M	Molt/publish/molt_avg_order_size_vs_mc_daily.csv
+M	Molt/publish/molt_entity_urpd.csv
+M	Molt/publish/molt_entity_urpd.html
+M	Molt/publish/molt_entity_urpd_latest.html
+M	Molt/publish/molt_top20_mindshare.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
+Already on 'gh-pages'
