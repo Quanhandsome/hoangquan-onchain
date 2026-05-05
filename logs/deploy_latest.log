@@ -45523,3 +45523,158 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+Auto packing the repository for optimum performance.
+See "git help gc" for manual housekeeping.
+[gh-pages 1882d328] deploy 20260505_170402
+ 467 files changed, 19260 insertions(+), 17196 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 66.54 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   9d861a44..1882d328  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260505_215103 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+M	Aethir/AETHIR_ats.html
+M	Aethir/AETHIR_entry_distribution.html
+M	Aethir/AETHIR_realized_price.html
+M	Aethir/Aethir_Trend_Accumulation_By_Cohort.html
+M	Aethir/aethir_nrpl.html
+M	Aethir/aethir_nupl.html
+M	Aethir/aethir_sopd.html
+M	Aethir/aethir_unrealized_pl.html
+M	Aethir/aethir_urpd.html
+M	Aethir/publish/aethir_avg_order_size_vs_mc.html
+M	Aethir/publish/aethir_avg_order_size_vs_mc_daily.csv
+M	Aethir/publish/aethir_entity_urpd.csv
+M	Aethir/publish/aethir_entity_urpd.html
+M	Aethir/publish/aethir_entity_urpd_latest.html
+M	Aethir/publish/aethir_top20_mindshare.html
+M	Arkm/ARKM_ats.html
+M	Arkm/ARKM_entry_distribution.html
+M	Arkm/ARKM_realized_price.html
+M	Arkm/Arkm_Trend_Accumulation_By_Cohort.html
+M	Arkm/arkm_nrpl.html
+M	Arkm/arkm_nupl.html
+M	Arkm/arkm_sopd.html
+M	Arkm/arkm_unrealized_pl.html
+M	Arkm/arkm_urpd.html
+M	Arkm/publish/arkm_avg_order_size_vs_mc.html
+M	Arkm/publish/arkm_avg_order_size_vs_mc_daily.csv
+M	Arkm/publish/arkm_entity_urpd.csv
+M	Arkm/publish/arkm_entity_urpd.html
+M	Arkm/publish/arkm_entity_urpd_latest.html
+M	Arkm/publish/arkm_top20_mindshare.html
+M	ENA/ENA_ats.html
+M	ENA/ENA_entry_distribution.html
+M	ENA/ENA_realized_price.html
+M	ENA/Ena_Trend_Accumulation_By_Cohort.html
+M	ENA/ena_nrpl.html
+M	ENA/ena_nupl.html
+M	ENA/ena_sopd.html
+M	ENA/ena_unrealized_pl.html
+M	ENA/ena_urpd.html
+M	ENA/publish/ena_avg_order_size_vs_mc.html
+M	ENA/publish/ena_avg_order_size_vs_mc_daily.csv
+M	ENA/publish/ena_entity_urpd.csv
+M	ENA/publish/ena_entity_urpd.html
+M	ENA/publish/ena_entity_urpd_latest.html
+M	ENA/publish/ena_top20_mindshare.html
+M	Grt/GRT_ats.html
+M	Grt/GRT_entry_distribution.html
+M	Grt/GRT_realized_price.html
+M	Grt/Grt_Trend_Accumulation_By_Cohort.html
+M	Grt/grt_nrpl.html
+M	Grt/grt_nupl.html
+M	Grt/grt_sopd.html
+M	Grt/grt_unrealized_pl.html
+M	Grt/grt_urpd.html
+M	Grt/publish/grt_avg_order_size_vs_mc.html
+M	Grt/publish/grt_avg_order_size_vs_mc_daily.csv
+M	Grt/publish/grt_entity_urpd.csv
+M	Grt/publish/grt_entity_urpd.html
+M	Grt/publish/grt_entity_urpd_latest.html
+M	Grt/publish/grt_top20_mindshare.html
+M	Mantle/MANTLE_ats.html
+M	Mantle/MANTLE_entry_distribution.html
+M	Mantle/MANTLE_realized_price.html
+M	Mantle/Mantle_Trend_Accumulation_By_Cohort.html
+M	Mantle/mantle_nrpl.html
+M	Mantle/mantle_nupl.html
+M	Mantle/mantle_sopd.html
+M	Mantle/mantle_unrealized_pl.html
+M	Mantle/mantle_urpd.html
+M	Mantle/publish/mantle_avg_order_size_vs_mc.html
+M	Mantle/publish/mantle_avg_order_size_vs_mc_daily.csv
+M	Mantle/publish/mantle_entity_urpd.csv
+M	Mantle/publish/mantle_entity_urpd.html
+M	Mantle/publish/mantle_entity_urpd_latest.html
+M	Mantle/publish/mantle_top20_mindshare.html
+M	Moca/MOCA_ats.html
+M	Moca/MOCA_entry_distribution.html
+M	Moca/MOCA_realized_price.html
+M	Moca/Moca_Trend_Accumulation_By_Cohort.html
+M	Moca/moca_nrpl.html
+M	Moca/moca_nupl.html
+M	Moca/moca_sopd.html
+M	Moca/moca_unrealized_pl.html
+M	Moca/moca_urpd.html
+M	Moca/publish/moca_avg_order_size_vs_mc.html
+M	Moca/publish/moca_avg_order_size_vs_mc_daily.csv
+M	Moca/publish/moca_entity_urpd.csv
+M	Moca/publish/moca_entity_urpd.html
+M	Moca/publish/moca_entity_urpd_latest.html
+M	Moca/publish/moca_top20_mindshare.html
+M	Plasmant/PLASMANT_ats.html
+M	Plasmant/PLASMANT_entry_distribution.html
+M	Plasmant/PLASMANT_realized_price.html
+M	Plasmant/Plasmant_Trend_Accumulation_By_Cohort.html
+M	Plasmant/plasmant_nrpl.html
+M	Plasmant/plasmant_nupl.html
+M	Plasmant/plasmant_sopd.html
+M	Plasmant/plasmant_unrealized_pl.html
+M	Plasmant/plasmant_urpd.html
+M	Plasmant/publish/plasmant_avg_order_size_vs_mc.html
+M	Plasmant/publish/plasmant_avg_order_size_vs_mc_daily.csv
+M	Plasmant/publish/plasmant_entity_urpd.csv
+M	Plasmant/publish/plasmant_entity_urpd.html
+M	Plasmant/publish/plasmant_entity_urpd_latest.html
+M	Plasmant/publish/plasmant_top20_mindshare.html
+M	Red/RED_ats.html
+M	Red/RED_entry_distribution.html
+M	Red/RED_realized_price.html
+M	Red/Red_Trend_Accumulation_By_Cohort.html
+M	Red/publish/red_avg_order_size_vs_mc.html
+M	Red/publish/red_avg_order_size_vs_mc_daily.csv
+M	Red/publish/red_entity_urpd.csv
+M	Red/publish/red_entity_urpd.html
+M	Red/publish/red_entity_urpd_latest.html
+M	Red/publish/red_top2Already on 'gh-pages'
+0_mindshare.html
+M	Red/red_nrpl.html
+M	Red/red_nupl.html
+M	Red/red_sopd.html
+M	Red/red_unrealized_pl.html
+M	Red/red_urpd.html
+M	Switch/Switch_Trend_Accumulation_By_Cohort.html
+M	Switch/Switch_ats.html
+M	Switch/Switch_entry_distribution.html
+M	Switch/Switch_nrpl.html
+M	Switch/Switch_nupl.html
+M	Switch/Switch_realized_price.html
+M	Switch/Switch_unrealized_pl.html
+M	Switch/Switch_urpd.html
+M	Switch/publish/switch_avg_order_size_vs_mc.html
+M	Switch/publish/switch_avg_order_size_vs_mc_daily.csv
+M	Switch/publish/switch_entity_urpd.csv
+M	Switch/publish/switch_entity_urpd.html
+M	Switch/publish/switch_entity_urpd_latest.html
+M	Switch/publish/switch_top20_mindshare.html
+M	Switch/switch_sopd.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
