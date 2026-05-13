@@ -49712,3 +49712,117 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages 5081648d] deploy 20260513_171503
+ 479 files changed, 7619 insertions(+), 5543 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 66.81 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   4a76c9fd..5081648d  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260513_212714 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	Aethir/AETHIR_ats.html
+M	Aethir/AETHIR_entry_distribution.html
+M	Aethir/AETHIR_realized_price.html
+M	Api3/API3_ats.html
+M	Api3/API3_entry_distribution.html
+M	Api3/API3_realized_price.html
+M	Arkm/ARKM_ats.html
+M	Arkm/ARKM_entry_distribution.html
+M	Arkm/ARKM_realized_price.html
+M	Believe/Believe_ats.html
+M	Believe/Believe_entry_distribution.html
+M	Believe/Believe_realized_price.html
+M	Bio/BIO_ats.html
+M	Bio/BIO_entry_distribution.html
+M	Bio/BIO_realized_price.html
+M	Blur/BLUR_ats.html
+M	Blur/BLUR_entry_distribution.html
+M	Blur/BLUR_realized_price.html
+M	Claw/CLAW_ats.html
+M	Claw/CLAW_entry_distribution.html
+M	Claw/CLAW_realized_price.html
+M	Clawd/CLAWD_ats.html
+M	Clawd/CLAWD_entry_distribution.html
+M	Clawd/CLAWD_realized_price.html
+M	Clawnch/CLAWNCH_ats.html
+M	Clawnch/CLAWNCH_entry_distribution.html
+M	Clawnch/CLAWNCH_realized_price.html
+M	ENA/ENA_ats.html
+M	ENA/ENA_entry_distribution.html
+M	ENA/ENA_realized_price.html
+M	Eigen/EIGEN_ats.html
+M	Eigen/EIGEN_entry_distribution.html
+M	Eigen/EIGEN_realized_price.html
+M	Grass/GRASS_ats.html
+M	Grass/GRASS_entry_distribution.html
+M	Grass/GRASS_realized_price.html
+M	Grt/GRT_ats.html
+M	Grt/GRT_entry_distribution.html
+M	Grt/GRT_realized_price.html
+M	ICM/ICM_ats.html
+M	ICM/ICM_entry_distribution.html
+M	ICM/ICM_realized_price.html
+M	IO/IO_ats.html
+M	IO/IO_entry_distribution.html
+M	IO/IO_realized_price.html
+M	Link/LINK_ats.html
+M	Link/LINK_entry_distribution.html
+M	Link/LINK_realized_price.html
+M	Mantle/MANTLE_ats.html
+M	Mantle/MANTLE_entry_distribution.html
+M	Mantle/MANTLE_realized_price.html
+M	Moca/MOCA_ats.html
+M	Moca/MOCA_entry_distribution.html
+M	Moca/MOCA_realized_price.html
+M	Molt/MOLT_ats.html
+M	Molt/MOLT_entry_distribution.html
+M	Molt/MOLT_realized_price.html
+M	Near/NEAR_ats.html
+M	Near/NEAR_entry_distribution.html
+M	Near/NEAR_realized_price.html
+M	Ondo/ONDO_ats.html
+M	Ondo/ONDO_entry_distribution.html
+M	Ondo/ONDO_realized_price.html
+M	Plasma/PLASMA_ats.html
+M	Plasma/PLASMA_entry_distribution.html
+M	Plasma/PLASMA_realized_price.html
+M	Plasmant/PLASMANT_ats.html
+M	Plasmant/PLASMANT_entry_distribution.html
+M	Plasmant/PLASMANT_realized_price.html
+M	Polis/POLIS_ats.html
+M	Polis/POLIS_entry_distribution.html
+M	Polis/POLIS_realized_price.html
+M	Red/RED_ats.html
+M	Red/RED_entry_distribution.html
+M	Red/RED_realized_price.html
+M	Robo/ROBO_ats.html
+M	Robo/ROBO_entry_distribution.html
+M	Robo/ROBO_realized_price.html
+M	Switch/SWITCH_ats.html
+M	Switch/SWITCH_entry_distribution.html
+M	Switch/SWITCH_realized_price.html
+M	Syrup/SYRUP_ats.html
+M	Syrup/SYRUP_entry_distribution.html
+M	Syrup/SYRUP_realized_price.html
+M	WLD/WLD_ats.html
+M	WLD/WLD_entry_distribution.html
+M	WLD/WLD_realized_price.html
+M	Wlfi/WLFI_ats.html
+M	Wlfi/WLFI_entry_distribution.html
+M	Wlfi/WLFI_realized_price.html
+M	Wormhole/WORMHOLE_ats.html
+M	Wormhole/WORMHOLE_entry_distribution.html
+M	Wormhole/WORMHOLE_realized_price.html
+M	Zro/ZRO_ats.html
+M	Zro/ZRO_entry_distribution.html
+M	Zro/ZRO_realized_price.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
