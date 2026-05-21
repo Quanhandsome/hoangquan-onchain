@@ -54492,3 +54492,83 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages a4e2234a] deploy 20260521_172502
+ 545 files changed, 12354 insertions(+), 10104 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 66.99 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   16214154..a4e2234a  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260522_013835 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	Aethir/publish/aethir_avg_order_size_vs_mc.html
+M	Aethir/publish/aethir_avg_order_size_vs_mc_daily.csv
+M	Api3/publish/api3_avg_order_size_vs_mc.html
+M	Api3/publish/api3_avg_order_size_vs_mc_daily.csv
+M	Believe/publish/believe_avg_order_size_vs_mc.html
+M	Believe/publish/believe_avg_order_size_vs_mc_daily.csv
+M	Bio/publish/bio_avg_order_size_vs_mc.html
+M	Bio/publish/bio_avg_order_size_vs_mc_daily.csv
+M	Claw/publish/claw_avg_order_size_vs_mc.html
+M	Claw/publish/claw_avg_order_size_vs_mc_daily.csv
+M	Clawd/publish/clawd_avg_order_size_vs_mc.html
+M	Clawd/publish/clawd_avg_order_size_vs_mc_daily.csv
+M	Clawnch/publish/clawnch_avg_order_size_vs_mc.html
+M	Clawnch/publish/clawnch_avg_order_size_vs_mc_daily.csv
+M	ENA/publish/ena_avg_order_size_vs_mc.html
+M	ENA/publish/ena_avg_order_size_vs_mc_daily.csv
+M	Eigen/publish/eigen_avg_order_size_vs_mc.html
+M	Eigen/publish/eigen_avg_order_size_vs_mc_daily.csv
+M	Grass/publish/grass_avg_order_size_vs_mc.html
+M	Grass/publish/grass_avg_order_size_vs_mc_daily.csv
+M	Grt/publish/grt_avg_order_size_vs_mc.html
+M	Grt/publish/grt_avg_order_size_vs_mc_daily.csv
+M	ICM/publish/icm_avg_order_size_vs_mc.html
+M	ICM/publish/icm_avg_order_size_vs_mc_daily.csv
+M	IO/publish/io_avg_order_size_vs_mc.html
+M	IO/publish/io_avg_order_size_vs_mc_daily.csv
+M	Limit/publish/limit_avg_order_size_vs_mc.html
+M	Limit/publish/limit_avg_order_size_vs_mc_daily.csv
+M	Link/publish/link_avg_order_size_vs_mc.html
+M	Link/publish/link_avg_order_size_vs_mc_daily.csv
+M	Mantle/publish/mantle_avg_order_size_vs_mc.html
+M	Mantle/publish/mantle_avg_order_size_vs_mc_daily.csv
+M	Moca/publish/moca_avg_order_size_vs_mc.html
+M	Moca/publish/moca_avg_order_size_vs_mc_daily.csv
+M	Molt/publish/molt_avg_order_size_vs_mc.html
+M	Near/publish/near_avg_order_size_vs_mc.html
+M	Ondo/publish/ondo_avg_order_size_vs_mc.html
+M	Ondo/publish/ondo_avg_order_size_vs_mc_daily.csv
+M	Payai/publish/payai_avg_order_size_vs_mc.html
+M	Payai/publish/payai_avg_order_size_vs_mc_daily.csv
+M	Plasma/publish/plasma_avg_order_size_vs_mc.html
+M	Plasma/publish/plasma_avg_order_size_vs_mc_daily.csv
+M	Plasmant/publish/plasmant_avg_order_size_vs_mc.html
+M	Plasmant/publish/plasmant_avg_order_size_vs_mc_daily.csv
+M	Polis/publish/polis_avg_order_size_vs_mc.html
+M	Polis/publish/polis_avg_order_size_vs_mc_daily.csv
+M	Red/publish/red_avg_order_size_vs_mc.html
+M	Red/publish/red_avg_order_size_vs_mc_daily.csv
+M	Robo/publish/robo_avg_order_size_vs_mc.html
+M	Robo/publish/robo_avg_order_size_vs_mc_daily.csv
+M	Switch/publish/switch_avg_order_size_vs_mc.html
+M	Switch/publish/switch_avg_order_size_vs_mc_daily.csv
+M	Syrup/publish/syrup_avg_order_size_vs_mc.html
+M	Syrup/publish/syrup_avg_order_size_vs_mc_daily.csv
+M	WLD/publish/wld_avg_order_size_vs_mc.html
+M	WLD/publish/wld_avg_order_size_vs_mc_daily.csv
+M	Wlfi/publish/wlfi_avg_order_size_vs_mc.html
+M	Wlfi/publish/wlfi_avg_order_size_vs_mc_daily.csv
+M	Wormhole/publish/wormhole_avg_order_size_vs_mc.html
+M	Wormhole/publish/wormhole_avg_order_size_vs_mc_daily.csv
+M	Zro/publish/zro_avg_order_size_vs_mc.html
+M	Zro/publish/zro_avg_order_size_vs_mc_daily.csv
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
