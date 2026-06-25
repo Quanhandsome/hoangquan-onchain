@@ -75204,3 +75204,43 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages 056aca5fe] deploy 20260625_173802
+ 596 files changed, 497757 insertions(+), 365057 deletions(-)
+ create mode 100644 Aave/AAVE_Trend_Accumulation_By_Cohort.html
+ create mode 100644 Aave/AAVE_ats.html
+ create mode 100644 Aave/AAVE_entry_distribution.html
+ create mode 100644 Aave/AAVE_realized_price.html
+ create mode 100644 Aave/aave_nrpl.html
+ create mode 100644 Aave/aave_nupl.html
+ create mode 100644 Aave/aave_sopd.html
+ create mode 100644 Aave/aave_unrealized_pl.html
+ create mode 100644 Aave/aave_urpd.html
+ create mode 100644 Aave/publish/aave_avg_order_size_vs_mc.html
+ create mode 100644 Aave/publish/aave_avg_order_size_vs_mc_daily.csv
+ create mode 100644 Aave/publish/aave_entity_urpd.csv
+ create mode 100644 Aave/publish/aave_entity_urpd.html
+ create mode 100644 Aave/publish/aave_entity_urpd_latest.html
+ create mode 100644 Aave/publish/aave_holder_flow.html
+ create mode 100644 Aave/publish/aave_holder_flow_daily.csv
+ create mode 100644 Aave/publish/aave_top20_mindshare.html
+ create mode 100644 WLD/publish/wld_holder_flow.html
+ create mode 100644 WLD/publish/wld_holder_flow_daily.csv
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 68.43 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   cb793b538..056aca5fe  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260625_223213 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	Aave/publish/aave_entity_urpd.csv
+M	Aave/publish/aave_entity_urpd.html
+M	Aave/publish/aave_entity_urpd_latest.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
