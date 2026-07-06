@@ -82180,3 +82180,17 @@ M	Wormhole/wormhole_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages f481f9a70] deploy 20260706_202943
+ 197 files changed, 17282 insertions(+), 16406 deletions(-)
+[INFO] git push attempt 1/3 ...
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   c9954b426..f481f9a70  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260707_053734 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
