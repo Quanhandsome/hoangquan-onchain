@@ -111795,3 +111795,30 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages e142c9767] deploy 20260824_135002
+ 622 files changed, 18084 insertions(+), 6186 deletions(-)
+ create mode 100644 Aptos/APTOS_Trend_Accumulation_By_Cohort.html
+ create mode 100644 Aptos/aptos_nrpl.html
+ create mode 100644 Aptos/aptos_nupl.html
+ create mode 100644 Aptos/aptos_sopd.html
+ create mode 100644 Aptos/aptos_unrealized_pl.html
+ create mode 100644 Aptos/aptos_urpd.html
+ create mode 100644 Aptos/publish/aptos_avg_order_size_vs_mc.html
+ create mode 100644 Aptos/publish/aptos_avg_order_size_vs_mc_daily.csv
+ create mode 100644 Aptos/publish/aptos_top20_mindshare.html
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 70.84 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   05ef22a05..e142c9767  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260824_150501 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
