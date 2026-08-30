@@ -115682,3 +115682,58 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+[gh-pages dc3a67203] deploy 20260830_150503
+ 628 files changed, 9109 insertions(+), 6518 deletions(-)
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Link/link_sopd.html is 71.22 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   2fb4779cd..dc3a67203  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20260830_172606 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	Aethir/Aethir_analytics.html
+M	Api3/Api3_analytics.html
+M	Aptos/Aptos_analytics.html
+M	Arkm/Arkm_analytics.html
+M	BNB/BNB_analytics.html
+M	Believe/Believe_analytics.html
+M	Bio/Bio_analytics.html
+M	Bitcoin/Bitcoin_analytics.html
+M	Bitensor/Bitensor_analytics.html
+M	Blur/Blur_analytics.html
+M	ENA/ENA_analytics.html
+M	Eigen/Eigen_analytics.html
+M	Ethereum/Ethereum_analytics.html
+M	Grass/Grass_analytics.html
+M	Grt/Grt_analytics.html
+M	ICP/ICP_analytics.html
+M	IO/IO_analytics.html
+M	Link/Link_analytics.html
+M	Mantle/Mantle_analytics.html
+M	Moca/Moca_analytics.html
+M	Near/Near_analytics.html
+M	Nil/Nil_analytics.html
+M	Ondo/Ondo_analytics.html
+M	Plasma/Plasma_analytics.html
+M	Pump/Pump_analytics.html
+M	Red/Red_analytics.html
+M	Robo/Robo_analytics.html
+M	Solana/Solana_analytics.html
+M	Sui/Sui_analytics.html
+M	Syrup/Syrup_analytics.html
+M	TON/TON_analytics.html
+M	Virtual/Virtual_analytics.html
+M	WLD/WLD_analytics.html
+M	Wlfi/Wlfi_analytics.html
+M	Wormhole/Wormhole_analytics.html
+M	Zbt/Zbt_analytics.html
+M	Zro/Zro_analytics.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
