@@ -149703,3 +149703,80 @@ M	Zro/zro_urpd.html
 M	index.html
 M	logs/deploy_latest.log
 Your branch is up to date with 'origin/gh-pages'.
+warning: in the working copy of 'Ats/publish/ats_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Ats/publish/ats_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Brew/publish/brew_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Brew/publish/brew_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Dark/publish/dark_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Dark/publish/dark_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Dot/publish/dot_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Dot/publish/dot_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Fuse/publish/fuse_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Fuse/publish/fuse_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Geod/publish/geod_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Geod/publish/geod_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Humanity/publish/humanity_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Humanity/publish/humanity_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Kaito/publish/kaito_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Kaito/publish/kaito_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Kgen/publish/kgen_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Kgen/publish/kgen_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Met/publish/met_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Met/publish/met_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'logs/deploy_latest.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Send/publish/send_entity_urpd.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Send/publish/send_entity_urpd_latest.html', LF will be replaced by CRLF the next time Git touches it
+[gh-pages d8f60435c] deploy 20261014_170501
+ 968 files changed, 142393 insertions(+), 113054 deletions(-)
+ create mode 100644 Send/SEND_Trend_Accumulation_By_Cohort.html
+ create mode 100644 Send/SEND_ats.html
+ create mode 100644 Send/SEND_entry_distribution.html
+ create mode 100644 Send/SEND_realized_price.html
+ create mode 100644 Send/publish/send_avg_order_size_vs_mc.html
+ create mode 100644 Send/publish/send_avg_order_size_vs_mc_daily.csv
+ create mode 100644 Send/publish/send_entity_urpd.csv
+ create mode 100644 Send/publish/send_entity_urpd.html
+ create mode 100644 Send/publish/send_entity_urpd_daily_audit.csv
+ create mode 100644 Send/publish/send_entity_urpd_latest.html
+ create mode 100644 Send/publish/send_entity_urpd_price_audit.csv
+ create mode 100644 Send/publish/send_entity_urpd_wallet_audit.csv
+ create mode 100644 Send/publish/send_top20_mindshare.html
+ create mode 100644 Send/send_nrpl.html
+ create mode 100644 Send/send_nupl.html
+ create mode 100644 Send/send_sopd.html
+ create mode 100644 Send/send_unrealized_pl.html
+ create mode 100644 Send/send_urpd.html
+[INFO] git push attempt 1/3 ...
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Met/publish/met_entity_urpd_wallet_audit.csv is 55.68 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File Link/link_sopd.html is 72.77 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File Kaito/publish/kaito_entity_urpd_wallet_audit.csv is 57.29 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Quanhandsome/hoangquan-onchain.git
+   59101b901..d8f60435c  gh-pages -> gh-pages
+[OK] Deployed to GitHub Pages.
+=== DEPLOY DONE ===
+=== DEPLOY START 20261014_203916 ===
+SITE_DIR=C:\Users\Administrator\Desktop\Learning\Production\_site
+true
+Already on 'gh-pages'
+M	Send/SEND_Trend_Accumulation_By_Cohort.html
+M	Send/SEND_ats.html
+M	Send/SEND_entry_distribution.html
+M	Send/SEND_realized_price.html
+M	Send/publish/send_avg_order_size_vs_mc.html
+M	Send/publish/send_avg_order_size_vs_mc_daily.csv
+M	Send/publish/send_entity_urpd.csv
+M	Send/publish/send_entity_urpd.html
+M	Send/publish/send_entity_urpd_daily_audit.csv
+M	Send/publish/send_entity_urpd_latest.html
+M	Send/publish/send_entity_urpd_wallet_audit.csv
+M	Send/publish/send_top20_mindshare.html
+M	Send/send_nrpl.html
+M	Send/send_nupl.html
+M	Send/send_sopd.html
+M	Send/send_unrealized_pl.html
+M	Send/send_urpd.html
+M	index.html
+M	logs/deploy_latest.log
+Your branch is up to date with 'origin/gh-pages'.
